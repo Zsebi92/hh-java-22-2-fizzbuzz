@@ -34,7 +34,7 @@ public class FizzBuzzTest {
     void fizzBuzzTestFor15() {
 
         //Given
-        int number = 5;
+        int number = 15;
 
         //When
         String actual = FizzBuzz.fizzBuzz(number);
